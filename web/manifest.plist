@@ -11,31 +11,29 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://10.1.72.78:8081/csjz.ipa</string>
+					<string>http://cdnoss.ku-lo.com/upgrade/HJCenter1.1-1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
-					<string>https://www.baidu.com</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://www.baidu.com</string>
+					<string>http://120.24.87.62:9080/upgrade/logo1.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.iRAID.chanshoujiazu</string>
+				<string>com.xiaoyu.appcenter.a</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>subtitle</key>
+				<string>App Subtitle</string>
 				<key>title</key>
-				<string>chjz.0</string>
+				<string>HandJoy</string>
 			</dict>
 		</dict>
 	</array>
